@@ -1,0 +1,58 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    background-color:rgb(227, 248, 198);
+    margin: 0%;
+    margin-bottom:100px;
+}
+#imagemfundo {
+    background:url("./alface.jpg");
+    margin: 0;
+    padding-top:200px;
+    text-align:center;
+    font-size: 60px;
+    height: 200px;
+    color:white;
+    text-decoration: solid;
+}
+#inicio {
+    margin-top:20px;
+    text-align: center;
+    font-size:30px;
+    padding-right:10px;
+    padding-left:10px;
+    padding-bottom:30px;
+    padding-top:50px;
+    color:rgb(57, 87, 8); 
+    text-decoration: double;  
+}
+h1 {
+    text-align:center;
+    font-weight:normal;
+    font-size: 40px;
+    padding-bottom:50px;
+    padding-top: 50px;
+}
+p {
+    font-size: 25px;
+    word-wrap: normal;
+}
+
+img {
+    width:350px;
+    height:220px;
+    float:unset;
+    padding-left:60px;
+    padding-top:10px;
+    padding-bottom:10px;   
+}
+#img5 {
+    padding-left:270px;
+}
+
+.texto {
+    margin-left: 270px;
+    margin-right:100px;
+    text-align:justify;
+    float:center;
+    padding-right:170px;
+}
