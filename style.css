@@ -196,7 +196,13 @@ footer {
         color: white;
     }
     @media all and (max-width:768px) {
-    #menu {
-        visibility: hidden;
-       } 
+      #menu {
+       visibility: hidden;
+   } 
+   .coluna, .dois, .tres, .quatro {
+        display: block;   
+        width: 80%;
+        padding: 0;
+        margin: 10px auto;
+        float: none;
     }
